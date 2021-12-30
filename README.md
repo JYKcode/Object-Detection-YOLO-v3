@@ -2,7 +2,7 @@
 ___
 ### 📣 YOLO v3를 통한 객체 검출에 대한 정리 및 구현 내용
 ### Structure
-![image](https://user-images.githubusercontent.com/88880041/147713417-833689d6-94bd-452f-921f-4a899226e246.png)
+![image](https://user-images.githubusercontent.com/88880041/147713417-833689d6-94bd-452f-921f-4a899226e246.png)  
 [참고 : https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b]
 ### Input
 ![image](https://user-images.githubusercontent.com/88880041/147713444-89e5e2d6-91aa-4e86-a426-709b624ac972.png)
